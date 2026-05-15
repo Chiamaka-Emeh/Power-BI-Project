@@ -3,7 +3,7 @@
 ## Table of Content
 
 - [Project Overview](#project-overview)
-- [Objective](#objectives)
+- [Objectives](#objectives)
 - [Key Business Questions](#key-business-questions)
 - [Tools and Methodologies](#tools-and-methodologies)
 - [Key Insights](#key-insights)
@@ -11,5 +11,5 @@
 - [References](#references)
 
    ## Project Overview
-  This project evaluates the performance of a digital marketing campaign in India using Microsoft Power BI. With 242M impressions,the campaign achieved exceptionally wide visibility.However, a deep dive into the data revealed a critical data integrity issue: the raw dataset incorrectly summed up individual row-level ROIs, leading to an inflated total that misrepresented actual performance. To establish a reliable source of truth, I created a custom DAX measure to calculate the true weighted ROI. The corrected analysis confirms that the campaign was incredibly profitable and cost-effective, driven by high revenue generation. The Key Recommendations is to Increase ad spend on top-performing product categories that yield both high ROI and substantial revenue, Introduce targeted incentives, such as limited-time discounts, to convert high-intent users who clicked the ads but did not complete a purchase—effectively narrowing the gap between total clicks and total conversions.
+  This project evaluates the performance of a digital marketing campaign in India using Microsoft Power BI. With 242M impressions,the campaign achieved exceptionally wide visibility.However, a deep dive into the data revealed a critical data integrity issue: the raw dataset incorrectly summed up individual row-level ROIs, leading to an inflated total that misrepresented actual performance. To establish a reliable source of truth, I created a custom DAX measure to calculate the true weighted ROI. The corrected analysis confirms that the campaign was incredibly profitable and cost-effective, driven by high revenue generation. The key recommendations are to Increase ad spend on top-performing product categories that yield both high ROI and substantial revenue, Introduce targeted incentives, such as limited-time discounts, to convert high-intent users who clicked the ads but did not complete a purchase—effectively narrowing the gap between total clicks and total conversions.
    
