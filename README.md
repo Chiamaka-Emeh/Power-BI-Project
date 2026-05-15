@@ -1,4 +1,4 @@
-# Digital Marketing Campagin Analysis
+# Digital Marketing Campaign Analysis
 
 ## Table of Content
 
